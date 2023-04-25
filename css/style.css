@@ -327,7 +327,7 @@ input[type=password],input[type=text] {
     font-size: 1rem;
     text-align: center;
     text-transform: uppercase;
-    font-family: fantasy;
+    font-family: 'Sedgwick Ave Display', cursive;
 }
 textarea {
     background-color: transparent;
@@ -802,7 +802,7 @@ font-family: 'Patrick Hand', cursive;
     position: relative
 }
 h3.fn__maintitle, h3.fn__maintitle.big span {
-    font-family: fantasy;
+    font-family: 'Sedgwick Ave Display', cursive;
     font-size: 70px;
 }
 
@@ -974,7 +974,7 @@ h3.fn__maintitle.big span {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     content: attr(data-text);
-    font-family: fantasy;
+    font-family: 'Sedgwick Ave Display', cursive;
 }
 
 #home {
